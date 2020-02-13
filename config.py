@@ -1,0 +1,2 @@
+MAX_BANNER_LEN = 1024
+SILENT_MODE    = True
